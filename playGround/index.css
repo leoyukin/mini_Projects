@@ -1,6 +1,7 @@
 ::root {
     --bg-color: blue;
     --bg-c: green;
+    --bg-a: black;
 }
 
 body {
